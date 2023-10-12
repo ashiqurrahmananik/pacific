@@ -1,0 +1,56 @@
+.navbar-brand img {
+  width: 60px;
+}
+.nav-link {
+  color: #1867b2 !important;
+  font-size: 17px;
+  font-weight: bold;
+}
+.carousel-item {
+  height: 550px;
+}
+.overlay-container {
+  position: relative;
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.carousel-caption h5 {
+  font-size: 50px;
+}
+.carousel-caption p {
+  font-size: 20px;
+  color: yellow;
+}
+.about-us {
+  margin-top: 30px;
+  margin-bottom: 80px;
+}
+.about-us img {
+  width: 500px;
+}
+.awards {
+  margin-bottom: 50px;
+}
+.awards h2 {
+  text-align: center;
+  color: #1867b2;
+}
+.title {
+  margin-bottom: 25px;
+  color: #1867b2;
+}
+.footer {
+  background-color: #1867b2;
+  color: white;
+}
+.footer img {
+  width: 130px;
+}
